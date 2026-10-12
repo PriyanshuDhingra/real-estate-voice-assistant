@@ -22,6 +22,11 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
+## Explore the workflow
+
+Open [notebooks/graph.ipynb](notebooks/graph.ipynb) in VS Code or Jupyter to
+run the graph step by step and visualize its structure while you learn.
+
 Try this conversation:
 
 ```text
