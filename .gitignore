@@ -1,0 +1,12 @@
+# Python bytecode and test cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local virtual environments and environment files
+.venv/
+.env
+
+# IDE metadata
+.vscode/
+.idea/
