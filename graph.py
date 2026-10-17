@@ -6,7 +6,7 @@ from mock_data import find_listings
 from state import RealEstateState
 
 
-PROPERTY_TYPES = ("apartment", "house", "workspace")
+from constants import PROPERTY_TYPES
 
 
 def _normalized_match(message: str, choices: tuple[str, ...]) -> str | None:
